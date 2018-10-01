@@ -2,6 +2,8 @@
 
 Quick Start Guide: https://www.activiti.org/quick-start
 
+![](https://i.imgur.com/KJWE6di.jpg)
+
 ## log
 
 ```
